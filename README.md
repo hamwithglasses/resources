@@ -1,15 +1,15 @@
 # Resources
 - [JavaScript](#javascript)
 
-##JavaScript
+## JavaScript
 
-###Utility
+### Utility
 Name | Description
 :--- | :---
 [is.js](http://is.js.org/)  | Validation library.
 [Sweet Alert](http://t4t5.github.io/sweetalert/)  | Content Cell
 
-###Frameworks
+### Frameworks
 Name | Description
 :--- | :---
 [Vue.js](https://vuejs.org/) |
@@ -17,7 +17,7 @@ Name | Description
 [React](https://facebook.github.io/react/) |
 [twig.js](https://github.com/twigjs/twig.js) | Twig-based templating.
 
-###Text
+### Text
 Name | Description
 :--- | :---
 [Lettering.js](http://letteringjs.com/) | Control each letter in text.
@@ -25,7 +25,7 @@ Name | Description
 [underline.js](http://underlinejs.org/) | Draw & animate underlines.
 [TheaterJS](http://underlinejs.org/) | Typing animation.
 
-###Animation
+### Animation
 Name | Description
 :--- | :---
 [vivus](http://maxwellito.github.io/vivus/) |
@@ -36,14 +36,14 @@ Name | Description
 [Bounce.js](http://bouncejs.com/) |
 [snabbt.js](http://daniel-lundin.github.io/snabbt.js/) |
 
-###3D
+### 3D
 Name | Description
 :--- | :---
 [three.js](https://threejs.org/) |
 [PlayCanvas](https://playcanvas.com/) |
 [matter.js](http://brm.io/matter-js/) | 2D physics engine.
 
-###Video
+### Video
 Name | Description
 :--- | :---
 [Plyr](https://plyr.io/) | Media player.
