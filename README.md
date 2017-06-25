@@ -1,5 +1,9 @@
 # Resources
 - [JavaScript](#javascript)
+- [Images](#images)
+
+
+
 
 ## JavaScript
 
@@ -49,3 +53,35 @@ Name | Description
 [Plyr](https://plyr.io/) | Media player.
 [FitVid](http://fitvidsjs.com/) | Scalable videos.
 
+### Interaction
+Name | Description
+:--- | :---
+[FastClick](https://labs.ft.com/fastclick/) | Eliminates click delay on taps.
+[interact.js](http://interactjs.io/) | Inertia drag/drop/resizing.
+[Draggabilly](https://draggabilly.desandro.com/) | Dragging & dropping.
+
+### Testing
+Name | Description
+:--- | :---
+[deb.js](https://github.com/krasimir/deb.js) | Better debugging in the browser.
+
+
+
+
+
+## Images
+
+###Placeholders
+Name | Description
+:--- | :---
+[Placeholder](https://placeholder.com/) | Simple placeholder.
+[PlaceIMG](https://placeimg.com/) | Random & categorized.
+[Unsplash It](https://unsplash.it/) | Unsplash placeholder images.
+
+### Resources
+Name | Description
+:--- | :---
+[Mockup World](https://www.mockupworld.co/all-mockups/) | Photo-realistic mockups.
+[GraphicBurger](http://graphicburger.com/) | Design & mockup resources.
+[Pixelbuddha](https://pixelbuddha.net/) | Design resources.
+[FDR](http://freedesignresources.net/) | Creative freebies.
