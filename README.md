@@ -71,7 +71,7 @@ Name | Description
 
 ## Images
 
-###Placeholders
+### Placeholders
 Name | Description
 :--- | :---
 [Placeholder](https://placeholder.com/) | Simple placeholder.
