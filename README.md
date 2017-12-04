@@ -35,6 +35,13 @@ Name | Description
 [underline.js](http://underlinejs.org/) | Draw & animate underlines.
 [TheaterJS](http://underlinejs.org/) | Typing animation.
 
+### Grid
+Name | Description
+:--- | :---
+[Muuri](https://haltu.github.io/muuri/) | Draggable/filterable grid layouts
+[MixItUp](https://www.kunkalabs.com/mixitup/) | Filterable layout
+
+
 ### Animation
 Name | Description
 :--- | :---
