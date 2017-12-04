@@ -38,8 +38,8 @@ Name | Description
 ### Grid
 Name | Description
 :--- | :---
-[Muuri](https://haltu.github.io/muuri/) | Draggable/filterable grid layouts
-[MixItUp](https://www.kunkalabs.com/mixitup/) | Filterable layout
+[Muuri](https://haltu.github.io/muuri/) | Draggable/filterable grid layouts.
+[MixItUp](https://www.kunkalabs.com/mixitup/) | Filterable layout.
 
 
 ### Animation
