@@ -7,7 +7,7 @@ Pull resources from [Enboard](https://enboard.co/bigfin/).
 
 
 # Tasks
-- [] Task 1
+- [ ] Task 1
 - [x] Task 2
 - [x] Task 3
 
